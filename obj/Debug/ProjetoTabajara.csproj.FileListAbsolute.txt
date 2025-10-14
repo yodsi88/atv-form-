@@ -1,0 +1,24 @@
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\bin\Debug\ProjetoTabajara.exe.config
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\bin\Debug\ProjetoTabajara.exe
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\bin\Debug\ProjetoTabajara.pdb
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\obj\Debug\ProjetoTabajara.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\obj\Debug\ProjetoTabajara.frmLogin.resources
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\obj\Debug\ProjetoTabajara.frmMenuPrincipal.resources
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\obj\Debug\ProjetoTabajara.frmSplash.resources
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\obj\Debug\ProjetoTabajara.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\obj\Debug\ProjetoTabajara.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\obj\Debug\ProjetoTabajara.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\obj\Debug\ProjetoTabajara.exe
+C:\Users\Aluno\Desktop\ProjetoTabajara-master\ProjetoTabajara\obj\Debug\ProjetoTabajara.pdb
+C:\Users\Aluno\Desktop\projeto tabajara\bin\Debug\ProjetoTabajara.exe.config
+C:\Users\Aluno\Desktop\projeto tabajara\bin\Debug\ProjetoTabajara.exe
+C:\Users\Aluno\Desktop\projeto tabajara\bin\Debug\ProjetoTabajara.pdb
+C:\Users\Aluno\Desktop\projeto tabajara\obj\Debug\ProjetoTabajara.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\projeto tabajara\obj\Debug\ProjetoTabajara.frmLogin.resources
+C:\Users\Aluno\Desktop\projeto tabajara\obj\Debug\ProjetoTabajara.frmMenuPrincipal.resources
+C:\Users\Aluno\Desktop\projeto tabajara\obj\Debug\ProjetoTabajara.frmSplash.resources
+C:\Users\Aluno\Desktop\projeto tabajara\obj\Debug\ProjetoTabajara.Properties.Resources.resources
+C:\Users\Aluno\Desktop\projeto tabajara\obj\Debug\ProjetoTabajara.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\projeto tabajara\obj\Debug\ProjetoTabajara.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\projeto tabajara\obj\Debug\ProjetoTabajara.exe
+C:\Users\Aluno\Desktop\projeto tabajara\obj\Debug\ProjetoTabajara.pdb
